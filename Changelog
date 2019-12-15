@@ -1,0 +1,29 @@
+Current Verions v1.1
+      Added:
+              -Vignette on camera to fade in and out
+              -Volume Setting in pause menu during game
+              -Ghost now have names:
+                      ~Sinnie, Straitous (More to be added)
+              -Story text to go along with intro cut scene
+              -"How To Play" button that shows game objectives and controls
+              -Added more animations
+              -Added particles
+      Changes:
+              -Holding space should allow for higher jump
+              -Book now floats around player and has a trail
+              -Shots come from original book location instead of book current book location
+              -Shots get destroy on contact with platforms
+              -Ghost are more prevalent
+              -Difficultly scales with score 
+              -Implemented new cut scene structure
+              -Color changes and fonts to UI and text
+              -Straitous moves at a faster rate than before
+              -On spawn, platforms give off a particle effect
+              -Changes to AI and game controllers
+      Fixes:
+              -Sinnie now moves in a complete sine wave
+              -High score takes in the highest score
+              -Platforms will now destroy any platforms above for easier movement
+              -Game level gets reset correctly
+              -Fixed out of bounds glitch
+              -Other minor glitches
