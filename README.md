@@ -7,4 +7,4 @@ Contributions:
 - Background and menu art done by Cameron  
 
 Current version v1.1
-- [Source Code Here] (https://github.com/JerenRaquel/Pumpkin-Chad-Source-Code)
+- [Source Code Here](https://github.com/JerenRaquel/Pumpkin-Chad-Source-Code)
